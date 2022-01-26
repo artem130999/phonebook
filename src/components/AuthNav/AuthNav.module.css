@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: #1976d2;
+}
+
+.activeLink {
+    composes: link;
+    color: #c62828;
+}

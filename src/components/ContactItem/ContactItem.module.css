@@ -1,0 +1,18 @@
+.listItem {
+    padding: 0;
+}
+
+.nameNumber {
+    font-size: 20px;
+    /* line-height: 1; */
+}
+
+.phoneNumber {
+    line-height: 1;
+    font-style: italic;
+    display: block;
+}
+
+.avatar {
+    margin-right: 15px;
+}
